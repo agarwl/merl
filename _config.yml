@@ -1,7 +1,7 @@
 intro:
 title: Learning to Generalize from Sparse and Underspecified Rewards
 description:
-- Accepted at ICML 2019
+- ICML 2019
 buttons:
   Authors: '#authors'
   Abstract: '#abstract'
