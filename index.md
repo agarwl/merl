@@ -25,5 +25,5 @@ We consider the problem of learning from sparse and underspecified rewards, wher
 <p style="text-align: left">
 For questions, please contact us at:
 <a href="mailto:rishabhagarwal@google.com">rishabhagarwal@google.com</a>,
-<a href="mailto:mnorouzi@google.com">mnorouzi@google.com</a>,
+<a href="mailto:mnorouzi@google.com">mnorouzi@google.com</a>.
 </p>
