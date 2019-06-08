@@ -1,0 +1,30 @@
+- name: Pierre-Yves Oudeyer
+  image: assets/faces/pierreyves.jpg
+  url: http://www.pyoudeyer.com/
+  title: Inria & Research Director
+  topics: lifelong learning, self organization, intrinsic motivation
+- name: Chelsea Finn
+  image: assets/faces/chelsea.jpg
+  url: http://people.eecs.berkeley.edu/~cbfinn/
+  title: Google, Berkeley, Stanford & Assistant Professor
+  topics: robotics, model-based RL, meta learning
+- name: Neil Bramley
+  image: assets/faces/neil.jpg
+  url: https://www.bramleylab.ppls.ed.ac.uk/member/neil/
+  title: University of Edinburgh & Assistant Professor
+  topics: causality, active learning, discovery, control
+- name: Doina Precup
+  image: assets/faces/doina.jpg
+  url: https://www.cs.mcgill.ca/~dprecup/
+  title: McGill, MILA, DeepMind & Professor
+  topics: RL, representations, uncertainty, planning
+- name: Martin Riedmiller
+  image: assets/faces/martin.jpg
+  url: https://scholar.google.ca/citations?user=DdOazFIAAAAJ&hl=en
+  title: DeepMind & Research Scientist
+  topics: RL, continuous control, robotics
+- name: Katja Hofmann
+  image: assets/faces/katja.jpg
+  url: https://www.microsoft.com/en-us/research/people/kahofman/
+  title: Microsoft Research & Senior Researcher
+  topics: Minecraft, RL, ranking

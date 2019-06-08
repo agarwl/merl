@@ -1,0 +1,10 @@
+intro:
+title: Learning to Generalize from Sparse and Underspecified Rewards
+description:
+- Accepted at ICML 2019
+buttons:
+  Speakers: '#speakers'
+  Abstract: '#abstract'
+  Paper: 'https://arxiv.org/abs/1902.07198'
+  Code: 'https://github.com/google-research/google-research/tree/master/meta_reward_learning'
+  Google AI Blog: 'https://ai.googleblog.com/2019/02/learning-to-generalize-from-sparse-and.html'
