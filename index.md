@@ -12,7 +12,7 @@ We consider the problem of learning from sparse and underspecified rewards, wher
 ## Authors
 
 <div style="text-align: left;">
-{%- for person in site.data.speakers -%}
+{%- for person in site.data.authors -%}
 <div class="person">
   <img src="{{ person.image }}" />
   <a href="{{ person.url | relative_url }}">{{ person.name }}</a><br>
